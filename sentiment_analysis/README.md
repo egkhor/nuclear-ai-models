@@ -19,7 +19,7 @@ This ML model analyzes public sentiment on nuclear power using a BERT-based clas
 
 ## Notes
 - Intended for non-critical public engagement applications.
-- Developed by EGK (Khor Eng Gian), leveraging ML and xAI-powered chatbot expertise.
+- Developed by EGK (Isaac Khor Eng Gian), leveraging ML and xAI-powered chatbot expertise.
 
 ## License
 MIT License
